@@ -1,0 +1,1 @@
+Example for bug https://youtrack.jetbrains.com/issue/IDEA-240470
